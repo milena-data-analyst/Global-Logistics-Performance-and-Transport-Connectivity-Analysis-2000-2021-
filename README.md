@@ -28,6 +28,15 @@ Logistics Performance Index (LPI), including indicators such as:
 
 Time range: **2000–2021**
 
+## Zrzuty ekranu
+
+![Dashboard](Title.png)
+![Dashboard](Air_transport.png)
+![Dashboard](Rail_transport.png)
+![Dashboard](Maritime_transport.png)
+![Dashboard](Strategic_Insight_transport_mix.png)
+
+
 ## Methodology
 
 The project involves:
