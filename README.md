@@ -18,12 +18,11 @@ The study focuses on comparing countries’ logistics performance and identifyin
 ## Dataset
 
 The analysis is based on publicly available global datasets (World Bank):
-API_IS.AIR.GOOD.MT.K1 – transport lotniczy (Air Transport Freight), wyrażony w milionach tonokilometrów.
-API_IS.RRS.GOOD.MT.K6 – transport kolejowy (Rail Freight Transport), wyrażony w milionach tonokilometrów.
-API_IS.SHP.GOOD.TU – transport morski (Container Port Traffic), wyrażony w jednostkach TEU.
-API_LP.LPI.OVRL.XQ – Logistics Performance Index (LPI), including indicators such as:
-
-- Logistics Performance Index (LPI)
+API_IS.AIR.GOOD.MT.K1 
+API_IS.RRS.GOOD.MT.K6 
+API_IS.SHP.GOOD.TU 
+API_LP.LPI.OVRL.XQ 
+Logistics Performance Index (LPI), including indicators such as:
 - Air, Rail, Maritime transport
 - YOY, CAGR, volatility
 
@@ -42,7 +41,6 @@ The project involves:
 ## Key Insights
 
 - Countries with higher logistics performance tend to show stronger transport connectivity
-- Developed economies consistently outperform developing countries in logistics efficiency
 - Transport infrastructure and customs efficiency are key drivers of performance differences
 - Improvements over time are visible, but global disparities remain significant
 
