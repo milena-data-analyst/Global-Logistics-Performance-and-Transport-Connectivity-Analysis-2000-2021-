@@ -17,7 +17,11 @@ The study focuses on comparing countries’ logistics performance and identifyin
 
 ## Dataset
 
-The analysis is based on publicly available global datasets, including indicators such as:
+The analysis is based on publicly available global datasets (World Bank):
+API_IS.AIR.GOOD.MT.K1 – transport lotniczy (Air Transport Freight), wyrażony w milionach tonokilometrów.
+API_IS.RRS.GOOD.MT.K6 – transport kolejowy (Rail Freight Transport), wyrażony w milionach tonokilometrów.
+API_IS.SHP.GOOD.TU – transport morski (Container Port Traffic), wyrażony w jednostkach TEU.
+API_LP.LPI.OVRL.XQ – Logistics Performance Index (LPI), including indicators such as:
 
 - Logistics Performance Index (LPI)
 - Air, Rail, Maritime transport
@@ -33,7 +37,7 @@ The project involves:
 - Aggregation of country-level indicators
 - Time-series analysis (2000–2021)
 - Correlation analysis between logistics performance and transport activity
-- Visualization of global trends and regional differences
+- Visualization of global trends
 
 ## Key Insights
 
@@ -44,17 +48,21 @@ The project involves:
 
 ## Tools & Technologies
 
-- Power Bi desktop
+- Power BI desktop
 - Power Query
-- Dax
+- DAX
 - Excel / CSV datasets
 
 ## Project Structure
 
 - `Title/` 
-- `/` – analysis notebooks  
-- `visualizations/` – charts and graphs  
-- `README.md` – project description  
+- `Global_Logistic_Overview/` 
+- `Air_Transport/`
+- `Rail_Transport/`
+- `Maritime_Transport/`
+- `Strategic_Insights1_Transport_Details/`
+- `Details/`   
+- `README.md`   
 
 ## Author
 
