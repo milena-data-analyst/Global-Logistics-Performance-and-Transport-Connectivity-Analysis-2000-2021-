@@ -31,9 +31,9 @@ Time range: **2000–2021**
 ## Zrzuty ekranu
 
 ![Dashboard](Title.png)
-![Dashboard](Air_transport.png)
-![Dashboard](Rail_transport.png)
-![Dashboard](Maritime_transport.png)
+![Dashboard](Air_Transport.png)
+![Dashboard](Rail_Transport.png)
+![Dashboard](Maritime_Transport.png)
 ![Dashboard](Strategic_Insight_transport_mix.png)
 
 
