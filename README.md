@@ -1,4 +1,4 @@
-# Global Logistics Performance and Transport Connectivity Analysis (2000–2021)
+# Global Logistics Performance and Transport Connectivity Analysis (2000–2021) + Forecasting of transport volume
 
 ## Project Overview
 
@@ -12,7 +12,8 @@ The study focuses on comparing countries’ logistics performance and identifyin
 - Comparision of transport connectivity across countries
 - Comparison of transport efficiency across different transport modes (air, rail, and maritime transport)
 - Identification of global logistics leaders
-- Verification the relationship between logistics efficiency and transport activity  
+- Verification the relationship between logistics efficiency and transport activity
+- The aim of the dashboard is to leverage historical logistics data to identify trends and provide predictive insights on transport volumes, enabling data-driven decision-making, proactive capacity planning, and optimization of supply chain operations.  
   
 
 ## Dataset
@@ -35,6 +36,9 @@ Time range: **2000–2021**
 ![Dashboard](Air_Transport.png)
 ![Dashboard](Rail_Transport.png)
 ![Dashboard](Maritime_Transport.png)
+![Dashboard](Analysis_of_Air_Transport_and_Forecasting_of_transport_volume.png)
+![Dashboard](Analysis_of_Rail_Transport_and_Forecasting_of_transport_volume.png)
+![Dashboard](Analysis_of_Maritime_Transport_and_Forecasting_of_transport_volume.png)
 ![Dashboard](Strategic_Insights-transport_mix.png)
 ![Dashboard](Transport_Details.png)
 
@@ -54,6 +58,7 @@ The project involves:
 - Countries with higher logistics performance tend to show stronger transport connectivity
 - Transport infrastructure and customs efficiency are key drivers of performance differences
 - Improvements over time are visible, but global disparities remain significant
+- Forecast results show sustained growth in air and maritime transport volumes, alongside a projected decrease in rail transport. This reflects a potential long-term modal shift driven by evolving supply chain requirements, including speed, flexibility, and global connectivity
 
 ## Tools & Technologies
 
@@ -69,6 +74,9 @@ The project involves:
 - `Air_Transport/`
 - `Rail_Transport/`
 - `Maritime_Transport/`
+- `Analysis_of_Air_Transport_and_Forecasting_of_transport_volume/`
+- `Analysis_of_Rail_Transport_and_Forecasting_of_transport_volume/`
+- `Analysis_of_Maritime_Transport_and_Forecasting_of_transport_volume/`
 - `Strategic_Insights1_Transport_Details/`
 - `Details/`   
 - `README.md`   
