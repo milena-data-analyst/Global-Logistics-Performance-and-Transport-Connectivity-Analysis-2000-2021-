@@ -8,11 +8,11 @@ The study focuses on comparing countries’ logistics performance and identifyin
 
 ## Objectives
 
-- Analyze trends in global logistics performance over time  
-- Compare transport connectivity across countries
+- Analysis trends in global logistics performance over time  
+- Comparision of transport connectivity across countries
 - Comparison of transport efficiency across different transport modes (air, rail, and maritime transport)
 - Identification of global logistics leaders
-- Examine the relationship between logistics efficiency and transport activity  
+- Verification the relationship between logistics efficiency and transport activity  
   
 
 ## Dataset
@@ -55,7 +55,7 @@ The project involves:
 
 ## Tools & Technologies
 
-- Power BI desktop
+- Power BI 
 - Power Query
 - DAX
 - Excel / CSV datasets
