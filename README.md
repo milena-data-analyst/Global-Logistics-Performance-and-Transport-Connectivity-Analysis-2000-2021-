@@ -30,7 +30,7 @@ Time range: **2000–2021**
 
 ## Zrzuty ekranu
 
-![Dashboard](Title.png)
+![Dashboard](Strona_tytułowa.png)
 ![Dashboard](Air_Transport.png)
 ![Dashboard](Rail_Transport.png)
 ![Dashboard](Maritime_Transport.png)
