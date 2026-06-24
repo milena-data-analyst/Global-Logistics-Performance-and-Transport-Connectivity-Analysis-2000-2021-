@@ -9,11 +9,11 @@ The study focuses on comparing countries’ logistics performance and identifyin
 ## Objectives
 
 - Analysis trends in global logistics performance over time  
-- Comparision of transport connectivity across countries
+- Comparision of transport efficiency across countries
 - Comparison of transport efficiency across different transport modes (air, rail, and maritime transport)
 - Identification of global logistics leaders
 - Verification the relationship between logistics efficiency and transport activity
-- The aim of the dashboard is to leverage historical logistics data to identify trends and provide predictive insights on transport volumes, enabling data-driven decision-making, proactive capacity planning, and optimization of supply chain operations.  
+- The aim of the report is to leverage historical logistics data to identify trends and provide predictive insights on transport volumes, enabling data-driven decision-making, proactive capacity planning, and optimization of supply chain operations.  
   
 
 ## Dataset
