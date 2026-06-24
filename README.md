@@ -4,7 +4,7 @@
 
 This project analyzes global logistics performance and transport connectivity across countries from 2000 to 2021. The goal is to understand how logistics efficiency relates to transport activity and infrastructure development over time.
 
-The study focuses on comparing countries’ logistics performance and identifying patterns in global trade connectivity, with particular attention to differences between high-income and developing economies.
+The study focuses on comparing countries’ logistics performance and identifying patterns in global trade connectivity.
 
 ## Objectives
 
